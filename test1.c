@@ -2,5 +2,6 @@
 
 int main(int argc, char * argv[])
 {
-    printf("test");
+    printf("test\n");
+    printf("test2\n");
 }
